@@ -11,6 +11,10 @@ line123
 
 new extra line
 new last line
+<<<<<<< HEAD
+>>>>>>> beta
+=======
+this is extra last line 
 >>>>>>> beta
 
 another line
