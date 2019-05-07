@@ -6,6 +6,8 @@ initial new
 initial new
 
 initial new
+new extra line
+new last line
 
 initial new
 initial new
