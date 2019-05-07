@@ -1,12 +1,17 @@
 initial new
 initial new
-initial new
+
 initial new
 
 initial new
 line11
 initial new
+<<<<<<< HEAD
 line123
+
+new extra line
+new last line
+>>>>>>> beta
 
 another line
 last line 
