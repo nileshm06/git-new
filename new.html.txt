@@ -9,7 +9,7 @@ initial new
 line123
 
 new extra line
-new last line
+
 <<<<<<< HEAD
 >>>>>>> beta
 =======
