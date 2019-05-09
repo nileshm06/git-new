@@ -7,6 +7,7 @@ line11
 initial new
 <<<<<<< HEAD
 line123
+initial new extra line
 
 new extra line
 new last line
