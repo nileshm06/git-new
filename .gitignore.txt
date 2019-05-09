@@ -1,6 +1,5 @@
 #ignore my password file
 password.txt
 about.html
-LICENSE
 
 src
